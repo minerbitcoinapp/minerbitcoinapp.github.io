@@ -27,22 +27,22 @@ For any privacy-related questions or requests, contact us at:
 ## 2. Information We Collect
 
 ### 2.1 Information you provide
-- **Account information** ? When you sign in with Google, we receive your
+- **Account information**  When you sign in with Google, we receive your
   **email address** and basic Google account profile information.
-- **Username** ? A display name you choose. Your username may be shown
+- **Username**  A display name you choose. Your username may be shown
   **publicly** to other users on the in-app leaderboard.
-- **Payout details** ? The **Lightning address** and/or **Bitcoin (on-chain)
+- **Payout details**  The **Lightning address** and/or **Bitcoin (on-chain)
   address** you enter in order to receive withdrawals.
 
 ### 2.2 Information collected automatically
-- **App activity** ? Your in-app balance, earned rewards, mining/game activity,
+- **App activity**  Your in-app balance, earned rewards, mining/game activity,
   and **withdrawal history** (amount, status, timestamp, Lightning invoice,
   payment hash).
-- **Device & technical data** ? Device identifiers, advertising identifier,
+- **Device & technical data**  Device identifiers, advertising identifier,
   IP address, app version, operating system, and similar diagnostic data
   collected by our service providers (e.g., for analytics, crash reporting,
   and advertising).
-- **Anti-fraud device fingerprint** ? A one-way hash (SHA-256) of the Android
+- **Anti-fraud device fingerprint**  A one-way hash (SHA-256) of the Android
   device identifier, used only to check that a single device is not collecting
   payouts on several accounts. The raw identifier never leaves your device, the
   hash cannot be reversed, it is never shared with advertisers or any third
@@ -76,16 +76,16 @@ We do **not** sell your personal information. We share information only as
 described below:
 
 - **Service providers** that help us run the App, including:
-  - **Google Firebase** (Authentication, Cloud Firestore) ? account and app data
+  - **Google Firebase** (Authentication, Cloud Firestore)  account and app data
     storage. See Google's Privacy Policy: https://policies.google.com/privacy
-  - **Google AdMob** ? advertising. See:
+  - **Google AdMob**  advertising. See:
     https://policies.google.com/technologies/ads
-- **Lightning / payment infrastructure** ? To pay out your withdrawals, the
+- **Lightning / payment infrastructure**  To pay out your withdrawals, the
   necessary payment details (e.g., your Lightning address or invoice) are
   transmitted to the Lightning payment provider used to send your funds.
-- **Other users** ? Your chosen **username** is publicly visible on the
+- **Other users**  Your chosen **username** is publicly visible on the
   leaderboard.
-- **Legal reasons** ? If required by law, regulation, legal process, or
+- **Legal reasons**  If required by law, regulation, legal process, or
   governmental request.
 
 ---
@@ -112,12 +112,12 @@ absolute security.
 Depending on your location, you may have rights to access, correct, or delete
 your personal data.
 
-- **Account & data deletion** ? To request deletion of your account and
+- **Account & data deletion**  To request deletion of your account and
   associated data, email us at **mine.bitcoin.app@gmail.com** with the email address
   associated with your account. We will process verified requests within a
   reasonable time.
-- **Advertising choices** ? You can reset or limit ad personalization in your
-  device settings (Google ? Ads).
+- **Advertising choices**  You can reset or limit ad personalization in your
+  device settings (Google  Ads).
 
 ---
 
